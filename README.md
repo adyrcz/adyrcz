@@ -1,6 +1,6 @@
 # Hi there 👋 
 I'm <a href="https://www.linkedin.com/in/adyrcz/">Andy Dyrcz</a>, Head of Cyber Security & Compliance at <strong><a href="https://www.linkfire.com/">Linkfire</a></strong> based in Copenhagen, Denmark 🇩🇰.
-<img align="right" alt="GIF" src="https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/B1xUp52rUnrv1Leakw/giphy.gif" />
 
 I’m currently working on <strong>Building a security-first organization</strong>, <strong>AWS</strong> well-architected best practices, and <strong>implementing security & privacy frameworks</strong> to meet <strong>compliance certifications</strong>.
 - 🌱 I’m currently working on my CISSP certificate.
