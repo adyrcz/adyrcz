@@ -6,7 +6,7 @@ I’m currently working on <strong>Building a security-first organization</stron
 - 🌱 I’m currently working on my CISSP certificate.
 - 👯 I’m looking for speaking opportunities.
 - 💬 Ask me about information security & privacy related topics within Denmark & the entire EU.
-- 📫 How to reach me: <a href="https://www.twitter.com/adyrcz/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="nodejs" width="40" height="40" /></a> or <a href="https://www.linkedin.com/in/adyrcz/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="nodejs" width="55" height="55" /></a>
+- 📫 How to reach me: <a href="https://www.twitter.com/adyrcz/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="nodejs" width="40" height="40" /></a> or <a href="https://www.linkedin.com/in/adyrcz/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="nodejs" width="40" height="40" /></a>
 - 😄 Pronouns: He/Him
 - 🖥 Website: https://www.adyrcz.com
 - 🐶 Fun fact: I have a 5 year old Shih Tzu
